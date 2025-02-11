@@ -2,3 +2,6 @@
 .vscode/
 weights/*.ckpt
 **__pycache__**
+data/**
+outputs/**
+third_party/**
